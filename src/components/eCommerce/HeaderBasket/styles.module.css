@@ -1,0 +1,21 @@
+.basketContainer {
+    position: relative;
+    cursor: pointer;
+    align-self: flex-end;
+  }
+  
+  .basketQuantity {
+    background-color: #ffc107;
+    height: 22px;
+    width: 22px;
+    border-radius: 10px;
+    text-align: center;
+    line-height: 1.7;
+    position: absolute;
+    top: -16px;
+    right: -5px;
+    font-size: 12px;
+  }
+  .cartIcon{
+    font-size: 30px;
+  }
